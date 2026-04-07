@@ -1,0 +1,590 @@
+{
+  "ItemHands:LeatherMittens": {
+    "Group": "ItemHands",
+    "Name": "LeatherMittens",
+    "Description": "Leather Mittens",
+    "Color": "Default",
+    "Difficulty": 1,
+    "AssetEffects": [
+      "Block",
+      "BlockWardrobe",
+      "MergedFingers"
+    ],
+    "Property": {},
+    "PropertyTypeRecord": null,
+    "PropertyEffect": null,
+    "LockedBy": null,
+    "Craft": {
+      "Item": "LeatherMittens",
+      "Name": "Victim's Paws~",
+      "Description": "Soft black leather paws her hands snugly, ending in rounded paw-shaped tips with tiny stitched pads. Cute yet just a little mischievous perfect for cuties that want to be in trouble~",
+      "Color": "Default",
+      "Property": "Normal",
+      "Lock": "",
+      "Private": false,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {},
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {},
+    "CraftItemProperty": {}
+  },
+  "ItemArms:PawPaddedPetsuitArms": {
+    "Group": "ItemArms",
+    "Name": "PawPaddedPetsuitArms",
+    "Description": "Paw Padded Petsuit Arms",
+    "Color": [
+      "#000000",
+      "#67E2E2",
+      "#000000",
+      "#67E2E2",
+      "#000000",
+      "#67E2E2",
+      "#67E2E2",
+      "#000000",
+      "#000000"
+    ],
+    "Difficulty": 1,
+    "AssetEffects": [
+      "Block",
+      "BlockWardrobe"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "typed": 0
+      }
+    },
+    "PropertyTypeRecord": {
+      "typed": 0
+    },
+    "PropertyEffect": null,
+    "LockedBy": null,
+    "Craft": {
+      "Item": "PawPaddedPetsuitArms",
+      "Name": "Petra's Arme",
+      "Description": "Weich gepolsterte Armsleeves, die sich eng an ihre Arme schmiegen und jede Bewegung dämpfen. Sie halten sie ruhig und nah, als würde Serra sie die ganze Zeit sanft bei sich behalten~",
+      "Color": "#000000,#67E2E2,#000000,#67E2E2,#000000,#67E2E2,#67E2E2,#182C42,#182C42",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": {
+        "typed": 0
+      },
+      "Effects": {
+        "Secure": 2,
+        "Strong": 1
+      },
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": {
+      "typed": 0
+    },
+    "CraftEffects": {
+      "Secure": 2,
+      "Strong": 1
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemTorso:ClassicLatexCorset": {
+    "Group": "ItemTorso",
+    "Name": "ClassicLatexCorset",
+    "Description": "Classic Latex Corset",
+    "Color": [
+      "#67E2E2",
+      "#000000",
+      "#000000"
+    ],
+    "Difficulty": 1,
+    "AssetEffects": [],
+    "Property": {},
+    "PropertyTypeRecord": null,
+    "PropertyEffect": null,
+    "LockedBy": null,
+    "Craft": {
+      "Item": "ClassicLatexCorset",
+      "Name": "Petra's Korsett",
+      "Description": "Ein eng anliegendes Korsett, das sich fest um ihre Mitte zieht und ihre Form betont. Es hält sie aufrecht und nah, als würde Serra sie die ganze Zeit sanft umschließen~",
+      "Color": "#67E2E2,#182C42,#000000",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {
+        "Secure": 2,
+        "Comfy": 1
+      },
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {
+      "Secure": 2,
+      "Comfy": 1
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemPelvis:ModularChastityBelt": {
+    "Group": "ItemPelvis",
+    "Name": "ModularChastityBelt",
+    "Description": "Modular Chastity Belt",
+    "Color": [
+      "#67E2E2",
+      "#000000",
+      "#000000",
+      "#000000",
+      "#000000",
+      "#000000"
+    ],
+    "Difficulty": 1,
+    "AssetEffects": [
+      "UseRemote",
+      "CanEdge"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "a": 0,
+        "c": 3,
+        "i": 4,
+        "p": 4,
+        "s": 0,
+        "v": 0,
+        "o": 1
+      },
+      "Difficulty": 0,
+      "ShockLevel": 0,
+      "TriggerCount": 0,
+      "OrgasmCount": 0,
+      "RuinedOrgasmCount": 0,
+      "TimeWorn": 1775519512031,
+      "TimeSinceLastOrgasm": 1775519512031,
+      "ShowText": true,
+      "PunishOrgasm": false,
+      "PunishStandup": false,
+      "PunishStruggle": false,
+      "PunishStruggleOther": false,
+      "AccessMode": "",
+      "TriggerValues": "Increase,Decrease,Disable,Inflate,Deflate,Empty,Shock",
+      "Block": [
+        "ItemVulva",
+        "ItemVulvaPiercings",
+        "ItemButt"
+      ],
+      "Effect": [
+        "UseRemote",
+        "CanEdge",
+        "Chaste",
+        "ButtChaste",
+        "Egged",
+        "Vibrating",
+        "FillVulva",
+        "IsPlugged",
+        "Slow",
+        "DenialMode"
+      ],
+      "Hide": [
+        "Pussy"
+      ],
+      "HideItem": [
+        "ItemButtAnalBeads2",
+        "ItemVulvaPenisDildo",
+        "ItemVulvaShockDildo",
+        "ItemVulvaVibratingDildo",
+        "ItemVulvaInflatableVibeDildo",
+        "ItemVulvaClitoralStimulator",
+        "ItemVulvaClitSuctionCup",
+        "ItemVulvaHeavyWeightClamp",
+        "ItemVulvaLoversVibrator",
+        "ItemVulvaDoubleEndDildo",
+        "ItemVulvaBasicCockring",
+        "ItemVulvaPlasticChastityCage1",
+        "ItemVulvaVibeEggPenisBase",
+        "ItemVulvaPlasticChastityCage2",
+        "ItemVulvaTechnoChastityCage",
+        "ItemVulvaFlatChastityCage",
+        "ItemVulvaChastityPouch",
+        "ItemVulvaFullCasingCage",
+        "ItemVulvaPiercingsVibeHeartClitPiercing",
+        "ItemVulvaPiercingsClitRing",
+        "ItemVulvaPiercingsChastityClitShield",
+        "ItemVulvaPiercingsHighSecurityVulvaShield"
+      ],
+      "AllowActivity": [],
+      "Attribute": [
+        "GenitaliaCover"
+      ],
+      "Intensity": 3,
+      "InflateLevel": 4
+    },
+    "PropertyTypeRecord": {
+      "a": 0,
+      "c": 3,
+      "i": 4,
+      "p": 4,
+      "s": 0,
+      "v": 0,
+      "o": 1
+    },
+    "PropertyEffect": [
+      "UseRemote",
+      "CanEdge",
+      "Chaste",
+      "ButtChaste",
+      "Egged",
+      "Vibrating",
+      "FillVulva",
+      "IsPlugged",
+      "Slow",
+      "DenialMode"
+    ],
+    "LockedBy": null,
+    "Craft": {
+      "Item": "ModularChastityBelt",
+      "Name": "Petra's Gürtel",
+      "Description": "Ein sicher sitzender Gürtel, der sich fest und dennoch behutsam anlegt. Er hält sie ruhig und gesammelt, nah bei Serra und ganz in ihrer Fürsorge~",
+      "Color": "#67E2E2,#182C42,#182C42,#182C42,#CCCC32,#CCCC32",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {
+        "Secure": 2,
+        "Arousing": 2
+      },
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {
+      "Secure": 2,
+      "Arousing": 2
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemBoots:MonoHeel": {
+    "Group": "ItemBoots",
+    "Name": "MonoHeel",
+    "Description": "Monoheel",
+    "Color": [
+      "#67E2E2",
+      "#67E2E2",
+      "#000000"
+    ],
+    "Difficulty": 1,
+    "AssetEffects": [
+      "Freeze",
+      "BlockWardrobe"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "typed": 1
+      },
+      "Difficulty": 0
+    },
+    "PropertyTypeRecord": {
+      "typed": 1
+    },
+    "PropertyEffect": null,
+    "LockedBy": null,
+    "Craft": {
+      "Item": "MonoHeel",
+      "Name": "Serra's Heels",
+      "Description": "Enchanted heels blend magic, tilting your feet down. This hinders swift steps, adding mystic grace and making escape more challenging.",
+      "Color": "#153F94,#153F94,#000000",
+      "Property": "Secure",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": {
+        "typed": 1
+      },
+      "Effects": {
+        "Secure": 1
+      },
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": {
+      "typed": 1
+    },
+    "CraftEffects": {
+      "Secure": 1
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemLegs:PawPaddedPetsuitLegs": {
+    "Group": "ItemLegs",
+    "Name": "PawPaddedPetsuitLegs",
+    "Description": "Paw Padded Petsuit Legs",
+    "Color": [
+      "#000000",
+      "#67E2E2",
+      "#000000",
+      "#67E2E2",
+      "#000000",
+      "#67E2E2",
+      "#67E2E2",
+      "#000000",
+      "#000000"
+    ],
+    "Difficulty": 1,
+    "AssetEffects": [
+      "Slow"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "typed": 0
+      }
+    },
+    "PropertyTypeRecord": {
+      "typed": 0
+    },
+    "PropertyEffect": null,
+    "LockedBy": null,
+    "Craft": {
+      "Item": "PawPaddedPetsuitLegs",
+      "Name": "Petra's Füße",
+      "Description": "Gepolsterte Beinsleeves, die ihre Beine und Füße sicher umschließen und ihre Schritte ruhiger machen. Jede Bewegung fühlt sich geführt an, weich und getragen von Serra’s Nähe~",
+      "Color": "#000000,#67E2E2,#000000,#67E2E2,#000000,#67E2E2,#67E2E2,#182C42,#182C42",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {
+        "Secure": 2,
+        "Strong": 1
+      },
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {
+      "Secure": 2,
+      "Strong": 1
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemMouth:OverfilledGag": {
+    "Group": "ItemMouth",
+    "Name": "OverfilledGag",
+    "Description": "Overfilling Gag",
+    "Color": [
+      "#67E2E2",
+      "#000000",
+      "#000000"
+    ],
+    "Difficulty": 18,
+    "AssetEffects": [
+      "BlockMouth"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "Gagtype": 4,
+        "Stuffing": 1
+      },
+      "Difficulty": 0,
+      "Block": [],
+      "Effect": [
+        "BlockMouth",
+        "GagMedium"
+      ],
+      "Hide": [
+        "Mouth"
+      ],
+      "HideItem": [],
+      "AllowActivity": [],
+      "Attribute": []
+    },
+    "PropertyTypeRecord": {
+      "Gagtype": 4,
+      "Stuffing": 1
+    },
+    "PropertyEffect": [
+      "BlockMouth",
+      "GagMedium"
+    ],
+    "LockedBy": null,
+    "Craft": {
+      "Item": "OverfilledGag",
+      "Name": "Petra's Stuffing",
+      "Description": "Ein füllender Gag, der ihren Mund sanft ausfüllt und ihre Stimme dämpft.\nZurück bleibt nur leise Ruhe und das Gefühl, sicher gehalten zu sein~",
+      "Color": "#ACAC93,#000000,#000000",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": {
+        "Gagtype": 4,
+        "Stuffing": 1
+      },
+      "Effects": {
+        "Large": 2,
+        "Secure": 2
+      },
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": {
+      "Gagtype": 4,
+      "Stuffing": 1
+    },
+    "CraftEffects": {
+      "Large": 2,
+      "Secure": 2
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemMouth2:QualityHarnessGag": {
+    "Group": "ItemMouth2",
+    "Name": "QualityHarnessGag",
+    "Description": "Quality Harness Gag",
+    "Color": [
+      "#67E2E2",
+      "#000000",
+      "#000000",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "Difficulty": 23,
+    "AssetEffects": [
+      "GagMedium"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "typed": 0
+      },
+      "Effect": [
+        "BlockMouth"
+      ]
+    },
+    "PropertyTypeRecord": {
+      "typed": 0
+    },
+    "PropertyEffect": [
+      "BlockMouth"
+    ],
+    "LockedBy": null,
+    "Craft": {
+      "Item": "QualityHarnessGag",
+      "Name": "Petra's Mund",
+      "Description": "Ein sicher sitzender Gag, der ihren Mund verschlossen hält. Er nimmt ihr die Worte und lässt sie still und ruhig bei Serra bleiben~",
+      "Color": "#67E2E2,#182C42,#000000,#182C42,#FFFFFF",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {
+        "Large": 2,
+        "Secure": 2
+      },
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {
+      "Large": 2,
+      "Secure": 2
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemFeet:EscortAnkleCuffs": {
+    "Group": "ItemFeet",
+    "Name": "EscortAnkleCuffs",
+    "Description": "Escort Ankle Cuffs",
+    "Color": "#BEBEBE",
+    "Difficulty": 20,
+    "AssetEffects": [
+      "CuffedFeet",
+      "Lock",
+      "Slow"
+    ],
+    "Property": {},
+    "PropertyTypeRecord": null,
+    "PropertyEffect": null,
+    "LockedBy": null,
+    "Craft": {
+      "Item": "EscortAnkleCuffs",
+      "Name": "Victim's Cuffs",
+      "Description": "A pair of snug ankle cuffs joined by a short chain, gently encouraging small steps while keeping the wearer secure and stopping any attempts to run, keeping everything secure and tidy.",
+      "Color": "#BEBEBE",
+      "Property": "Flexible",
+      "Lock": "",
+      "Private": false,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {
+        "Secure": 1,
+        "Flexible": 1
+      },
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {
+      "Secure": 1,
+      "Flexible": 1
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemHead:乳胶眼罩2": {
+    "Group": "ItemHead",
+    "Name": "乳胶眼罩2",
+    "Description": "Latex Blindfold 2",
+    "Color": [
+      "#000000",
+      "#FFFFFF",
+      "#67E2E2",
+      "#67E2E2",
+      "#67E2E2"
+    ],
+    "Difficulty": 21,
+    "AssetEffects": [],
+    "Property": {
+      "TypeRecord": {
+        "l": 1
+      },
+      "Difficulty": 0,
+      "Block": [],
+      "Effect": [
+        "BlindHeavy",
+        "BlockWardrobe"
+      ],
+      "Hide": [],
+      "HideItem": [],
+      "AllowActivity": [],
+      "Attribute": []
+    },
+    "PropertyTypeRecord": {
+      "l": 1
+    },
+    "PropertyEffect": [
+      "BlindHeavy",
+      "BlockWardrobe"
+    ],
+    "LockedBy": null,
+    "Craft": {
+      "Item": "乳胶眼罩2",
+      "Name": "Petra's Augen",
+      "Description": "Eine weiche Augenbinde, die ihr die Sicht nimmt und die Welt ausblendet.\nOhne Ablenkung bleibt nur noch das Gefühl von Nähe und das Vertrauen in Serra~",
+      "Color": "#000000,#FFFFFF,#67E2E2,#67E2E2,#67E2E2",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {
+        "Thick": 2,
+        "Secure": 2
+      },
+      "MemberNumber": 1,
+      "MemberName": "Serra"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {
+      "Thick": 2,
+      "Secure": 2
+    },
+    "CraftItemProperty": {}
+  }
+}

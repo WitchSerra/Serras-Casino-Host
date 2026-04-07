@@ -1,0 +1,124 @@
+{
+  "default": [
+    {
+      "key": "mittens",
+      "label": "Mittens",
+      "value": 9,
+      "durationMs": 1200000,
+      "assetName": "LeatherMittens",
+      "group": "ItemHands",
+      "craftName": "Casino Mittens",
+      "craftDescription": "No more clever moves. The game is out of your hands now~"
+    },
+    {
+      "key": "armbinder",
+      "label": "Armbinder",
+      "value": 10,
+      "durationMs": 1200000,
+      "assetName": "PawPaddedPetsuitArms",
+      "group": "ItemArms",
+      "craftName": "Casino Armbinder",
+      "craftDescription": "All in... and now all tied up. The house always collects."
+    },
+    {
+      "key": "corset",
+      "label": "Corset",
+      "value": 6,
+      "durationMs": 1200000,
+      "assetName": "ClassicLatexCorset",
+      "group": "ItemTorso",
+      "craftName": "Casino Corset",
+      "craftDescription": "Pulled tight by the house. No room left for luck."
+    },
+    {
+      "key": "chastity",
+      "label": "Chastity Belt",
+      "value": 8,
+      "durationMs": 1200000,
+      "assetName": "ModularChastityBelt",
+      "group": "ItemPelvis",
+      "craftName": "Casino Chastity Belt",
+      "craftDescription": "The house keeps what you risked. No exceptions."
+    },
+    {
+      "key": "boots",
+      "label": "Boots",
+      "value": 6,
+      "durationMs": 1200000,
+      "assetName": "MonoHeel",
+      "group": "ItemBoots",
+      "craftName": "Casino Heels",
+      "craftDescription": "Every step reminds you who set the rules."
+    },
+    {
+      "key": "legbinder",
+      "label": "Leg Binder",
+      "value": 7,
+      "durationMs": 1200000,
+      "assetName": "PawPaddedPetsuitLegs",
+      "group": "ItemLegs",
+      "craftName": "Casino Leg Binder",
+      "craftDescription": "The house doesn't like runners. Stay right where you are~"
+    },
+    {
+      "key": "gag",
+      "label": "Gag",
+      "value": 7,
+      "durationMs": 1200000,
+      "assetName": "OverfilledGag",
+      "group": "ItemMouth",
+      "craftName": "Casino Stuffing",
+      "craftDescription": "No complaints. The house isn't listening anyway~"
+    },
+    {
+      "key": "muzzle",
+      "label": "Muzzle",
+      "value": 8,
+      "durationMs": 1200000,
+      "assetName": "QualityHarnessGag",
+      "group": "ItemMouth2",
+      "craftName": "Casino Harness Gag",
+      "craftDescription": "Quiet now. The game is over for you."
+    },
+    {
+      "key": "anklecuffs",
+      "label": "Ankle Cuffs",
+      "value": 6,
+      "durationMs": 1200000,
+      "assetName": "EscortAnkleCuffs",
+      "group": "ItemFeet",
+      "craftName": "Casino Ankle Cuffs",
+      "craftDescription": "You're not going anywhere until your debt is settled."
+    },
+    {
+      "key": "blindfold",
+      "label": "Blindfold",
+      "value": 7,
+      "durationMs": 1200000,
+      "assetName": "乳胶眼罩2",
+      "group": "ItemHead",
+      "craftName": "Casino Blindfold",
+      "craftDescription": "You played blind. Now you stay that way~"
+    },
+    {
+      "key": "allin",
+      "label": "All Restraints",
+      "value": 60,
+      "durationMs": 1200000,
+      "composite": [
+        "mittens",
+        "armbinder",
+        "corset",
+        "chastity",
+        "boots",
+        "legbinder",
+        "gag",
+        "muzzle",
+        "anklecuffs",
+        "blindfold"
+      ],
+      "craftName": "Total House Lockdown",
+      "craftDescription": "You lost everything. The house takes it all~"
+    }
+  ]
+}
