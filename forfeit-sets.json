@@ -8,7 +8,9 @@
       "assetName": "LeatherMittens",
       "group": "ItemHands",
       "craftName": "Casino Mittens",
-      "craftDescription": "No more clever moves. The game is out of your hands now~"
+      "craftDescription": "No more clever moves. The game is out of your hands now~",
+      "color": "auto",
+      "craftColor": "auto"
     },
     {
       "key": "armbinder",
@@ -18,7 +20,19 @@
       "assetName": "PawPaddedPetsuitArms",
       "group": "ItemArms",
       "craftName": "Casino Armbinder",
-      "craftDescription": "All in... and now all tied up. The house always collects."
+      "craftDescription": "All in... and now all tied up. The house always collects.",
+      "color": [
+        "#000000",
+        "auto",
+        "#000000",
+        "auto",
+        "#000000",
+        "auto",
+        "auto",
+        "#000000",
+        "#000000"
+      ],
+      "craftColor": "#000000,auto,#000000,auto,#000000,auto,auto,#182C42,#182C42"
     },
     {
       "key": "corset",
@@ -28,7 +42,13 @@
       "assetName": "ClassicLatexCorset",
       "group": "ItemTorso",
       "craftName": "Casino Corset",
-      "craftDescription": "Pulled tight by the house. No room left for luck."
+      "craftDescription": "Pulled tight by the house. No room left for luck.",
+      "color": [
+        "auto",
+        "#000000",
+        "#000000"
+      ],
+      "craftColor": "auto,#182C42,#000000"
     },
     {
       "key": "chastity",
@@ -38,7 +58,16 @@
       "assetName": "ModularChastityBelt",
       "group": "ItemPelvis",
       "craftName": "Casino Chastity Belt",
-      "craftDescription": "The house keeps what you risked. No exceptions."
+      "craftDescription": "The house keeps what you risked. No exceptions.",
+      "color": [
+        "auto",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
+      ],
+      "craftColor": "auto,#182C42,#182C42,#182C42,#CCCC32,#CCCC32"
     },
     {
       "key": "boots",
@@ -48,7 +77,13 @@
       "assetName": "MonoHeel",
       "group": "ItemBoots",
       "craftName": "Casino Heels",
-      "craftDescription": "Every step reminds you who set the rules."
+      "craftDescription": "Every step reminds you who set the rules.",
+      "color": [
+        "auto",
+        "auto",
+        "#000000"
+      ],
+      "craftColor": "#153F94,#153F94,#000000"
     },
     {
       "key": "legbinder",
@@ -58,7 +93,19 @@
       "assetName": "PawPaddedPetsuitLegs",
       "group": "ItemLegs",
       "craftName": "Casino Leg Binder",
-      "craftDescription": "The house doesn't like runners. Stay right where you are~"
+      "craftDescription": "The house doesn't like runners. Stay right where you are~",
+      "color": [
+        "#000000",
+        "auto",
+        "#000000",
+        "auto",
+        "#000000",
+        "auto",
+        "auto",
+        "#000000",
+        "#000000"
+      ],
+      "craftColor": "#000000,auto,#000000,auto,#000000,auto,auto,#182C42,#182C42"
     },
     {
       "key": "gag",
@@ -68,7 +115,13 @@
       "assetName": "OverfilledGag",
       "group": "ItemMouth",
       "craftName": "Casino Stuffing",
-      "craftDescription": "No complaints. The house isn't listening anyway~"
+      "craftDescription": "No complaints. The house isn't listening anyway~",
+      "color": [
+        "auto",
+        "#000000",
+        "#000000"
+      ],
+      "craftColor": "#ACAC93,#000000,#000000"
     },
     {
       "key": "muzzle",
@@ -78,7 +131,15 @@
       "assetName": "QualityHarnessGag",
       "group": "ItemMouth2",
       "craftName": "Casino Harness Gag",
-      "craftDescription": "Quiet now. The game is over for you."
+      "craftDescription": "Quiet now. The game is over for you.",
+      "color": [
+        "auto",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "craftColor": "auto,#182C42,#000000,#182C42,#FFFFFF"
     },
     {
       "key": "anklecuffs",
@@ -88,7 +149,9 @@
       "assetName": "EscortAnkleCuffs",
       "group": "ItemFeet",
       "craftName": "Casino Ankle Cuffs",
-      "craftDescription": "You're not going anywhere until your debt is settled."
+      "craftDescription": "You're not going anywhere until your debt is settled.",
+      "color": "auto",
+      "craftColor": "auto"
     },
     {
       "key": "blindfold",
@@ -98,7 +161,15 @@
       "assetName": "乳胶眼罩2",
       "group": "ItemHead",
       "craftName": "Casino Blindfold",
-      "craftDescription": "You played blind. Now you stay that way~"
+      "craftDescription": "You played blind. Now you stay that way~",
+      "color": [
+        "#000000",
+        "#FFFFFF",
+        "auto",
+        "auto",
+        "auto"
+      ],
+      "craftColor": "#000000,#FFFFFF,auto,auto,auto"
     },
     {
       "key": "allin",
