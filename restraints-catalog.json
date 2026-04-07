@@ -586,5 +586,239 @@
       "Secure": 2
     },
     "CraftItemProperty": {}
+  },
+  "ItemButt:VibratingDildoPlug": {
+    "Group": "ItemButt",
+    "Name": "VibratingDildoPlug",
+    "Description": "Vibrating Dildo",
+    "Color": "Default",
+    "Difficulty": 1,
+    "AssetEffects": [
+      "IsPlugged",
+      "UseRemote"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "vibrating": 1
+      },
+      "Mode": "Low",
+      "Intensity": 0,
+      "Effect": [
+        "Egged",
+        "Vibrating"
+      ]
+    },
+    "PropertyTypeRecord": {
+      "vibrating": 1
+    },
+    "PropertyEffect": [
+      "Egged",
+      "Vibrating"
+    ],
+    "LockedBy": null,
+    "Craft": {
+      "Item": "VibratingDildoPlug",
+      "Name": "Serra's Special Vibrator",
+      "Description": "Makes the cuties~ very warm and comfy to hug and really aroused~",
+      "Color": "Default",
+      "Property": "Arousing",
+      "Lock": "",
+      "Private": false,
+      "ItemProperty": {},
+      "TypeRecord": {},
+      "Effects": {
+        "Arousing": 1
+      },
+      "MemberNumber": 5245,
+      "MemberName": "Lilly"
+    },
+    "CraftTypeRecord": {},
+    "CraftEffects": {
+      "Arousing": 1
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemVulva:VibratingDildo": {
+    "Group": "ItemVulva",
+    "Name": "VibratingDildo",
+    "Description": "Vibrating Dildo",
+    "Color": [
+      "#ED4BEE",
+      "#ED4BEE"
+    ],
+    "Difficulty": 1,
+    "AssetEffects": [
+      "FillVulva",
+      "UseRemote"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "vibrating": 1
+      },
+      "Mode": "Low",
+      "Intensity": 0,
+      "Effect": [
+        "Egged",
+        "Vibrating"
+      ]
+    },
+    "PropertyTypeRecord": {
+      "vibrating": 1
+    },
+    "PropertyEffect": [
+      "Egged",
+      "Vibrating"
+    ],
+    "LockedBy": null,
+    "Craft": {
+      "Item": "VibratingDildo",
+      "Name": "Serra's Special Vibrator",
+      "Description": "Makes the cuties~ very warm and comfy to hug and really aroused~",
+      "Color": "#ED4BEE,#ED4BEE",
+      "Property": "Arousing",
+      "Lock": "",
+      "Private": false,
+      "ItemProperty": {},
+      "TypeRecord": {},
+      "Effects": {
+        "Arousing": 1
+      },
+      "MemberNumber": 5245,
+      "MemberName": "Lilly"
+    },
+    "CraftTypeRecord": {},
+    "CraftEffects": {
+      "Arousing": 1
+    },
+    "CraftItemProperty": {}
+  },
+  "ItemNipplesPiercings:VibeHeartPiercings": {
+    "Group": "ItemNipplesPiercings",
+    "Name": "VibeHeartPiercings",
+    "Description": "Vibrating Heart Piercings",
+    "Color": [
+      "Default",
+      "#0D0D0D"
+    ],
+    "Difficulty": 20,
+    "AssetEffects": [
+      "UseRemote",
+      "Wiggling"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "vibrating": 1
+      },
+      "Mode": "Low",
+      "Intensity": 0,
+      "Effect": [
+        "Egged",
+        "Vibrating"
+      ]
+    },
+    "PropertyTypeRecord": {
+      "vibrating": 1
+    },
+    "PropertyEffect": [
+      "Egged",
+      "Vibrating"
+    ],
+    "LockedBy": null,
+    "Craft": {
+      "Item": "VibeHeartPiercings",
+      "Name": "Serra's Piercings",
+      "Description": "Elegantly designed, these vibrant nipple clamps delicately embrace a kitty's nipples, inducing a continual state of arousal through gentle, stimulating vibrations.",
+      "Color": "Default,#0D0D0D",
+      "Property": "Normal",
+      "Lock": "",
+      "Private": false,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {},
+      "MemberNumber": 5245,
+      "MemberName": "Lilly"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {},
+    "CraftItemProperty": {}
+  },
+  "ItemNipples:HeartPasties": {
+    "Group": "ItemNipples",
+    "Name": "HeartPasties",
+    "Description": "Heart Pasties",
+    "Color": [
+      "#67E2E2"
+    ],
+    "Difficulty": 10,
+    "AssetEffects": [],
+    "Property": {},
+    "PropertyTypeRecord": null,
+    "PropertyEffect": null,
+    "LockedBy": null,
+    "Craft": {
+      "Item": "HeartPasties",
+      "Name": "Cute Magical Hearts",
+      "Description": "Portrays the cutie with her cute breasts exposed while her nipples remain hidden beneath playful magic pasties..",
+      "Color": "#800000",
+      "Property": "Normal",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {},
+      "MemberNumber": 5245,
+      "MemberName": "Lilly"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {},
+    "CraftItemProperty": {}
+  },
+  "ItemEars:FuturisticEarphones": {
+    "Group": "ItemEars",
+    "Name": "FuturisticEarphones",
+    "Description": "Futuristic Earphones",
+    "Color": [
+      "#000000",
+      "#67E2E2",
+      "#000000"
+    ],
+    "Difficulty": 68,
+    "AssetEffects": [
+      "UseRemote"
+    ],
+    "Property": {
+      "TypeRecord": {
+        "typed": 0
+      },
+      "Effect": [],
+      "OverridePriority": 51
+    },
+    "PropertyTypeRecord": {
+      "typed": 0
+    },
+    "PropertyEffect": [],
+    "LockedBy": null,
+    "Craft": {
+      "Item": "FuturisticEarphones",
+      "Name": "Petra's Ohren",
+      "Description": "Umschließende Kopfhörer, die die Außenwelt sanft dämpfen. Geräusche verblassen, bis nur noch Ruhe und Serra’s Nähe bleiben~",
+      "Color": "#182C42,#67E2E2,Default",
+      "Lock": "",
+      "Private": true,
+      "ItemProperty": {},
+      "TypeRecord": null,
+      "Effects": {
+        "Secure": 2,
+        "Strong": 1
+      },
+      "MemberNumber": 5245,
+      "MemberName": "Lilly"
+    },
+    "CraftTypeRecord": null,
+    "CraftEffects": {
+      "Secure": 2,
+      "Strong": 1
+    },
+    "CraftItemProperty": {}
   }
 }
