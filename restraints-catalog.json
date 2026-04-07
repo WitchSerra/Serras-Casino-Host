@@ -26,7 +26,7 @@
       "TypeRecord": null,
       "Effects": {},
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {},
@@ -65,7 +65,7 @@
     "Craft": {
       "Item": "PawPaddedPetsuitArms",
       "Name": "Petra's Arme",
-      "Description": "Weich gepolsterte Armsleeves, die sich eng an ihre Arme schmiegen und jede Bewegung dämpfen. Sie halten sie ruhig und nah, als würde Serra sie die ganze Zeit sanft bei sich behalten~",
+      "Description": "Weich gepolsterte Armsleeves, die sich eng an ihre Arme schmiegen und jede Bewegung dämpfen. Sie halten sie ruhig und nah, als würde Dealer Serra sie die ganze Zeit sanft bei sich behalten~",
       "Color": "#000000,#67E2E2,#000000,#67E2E2,#000000,#67E2E2,#67E2E2,#182C42,#182C42",
       "Lock": "",
       "Private": true,
@@ -78,7 +78,7 @@
         "Strong": 1
       },
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": {
       "typed": 0
@@ -107,7 +107,7 @@
     "Craft": {
       "Item": "ClassicLatexCorset",
       "Name": "Petra's Korsett",
-      "Description": "Ein eng anliegendes Korsett, das sich fest um ihre Mitte zieht und ihre Form betont. Es hält sie aufrecht und nah, als würde Serra sie die ganze Zeit sanft umschließen~",
+      "Description": "Ein eng anliegendes Korsett, das sich fest um ihre Mitte zieht und ihre Form betont. Es hält sie aufrecht und nah, als würde Dealer Serra sie die ganze Zeit sanft umschließen~",
       "Color": "#67E2E2,#182C42,#000000",
       "Lock": "",
       "Private": true,
@@ -118,7 +118,7 @@
         "Comfy": 1
       },
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {
@@ -244,7 +244,7 @@
     "Craft": {
       "Item": "ModularChastityBelt",
       "Name": "Petra's Gürtel",
-      "Description": "Ein sicher sitzender Gürtel, der sich fest und dennoch behutsam anlegt. Er hält sie ruhig und gesammelt, nah bei Serra und ganz in ihrer Fürsorge~",
+      "Description": "Ein sicher sitzender Gürtel, der sich fest und dennoch behutsam anlegt. Er hält sie ruhig und gesammelt, nah bei Dealer Serra und ganz in ihrer Fürsorge~",
       "Color": "#67E2E2,#182C42,#182C42,#182C42,#CCCC32,#CCCC32",
       "Lock": "",
       "Private": true,
@@ -255,7 +255,7 @@
         "Arousing": 2
       },
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {
@@ -291,7 +291,7 @@
     "LockedBy": null,
     "Craft": {
       "Item": "MonoHeel",
-      "Name": "Serra's Heels",
+      "Name": "Dealer Serra's Heels",
       "Description": "Enchanted heels blend magic, tilting your feet down. This hinders swift steps, adding mystic grace and making escape more challenging.",
       "Color": "#153F94,#153F94,#000000",
       "Property": "Secure",
@@ -305,7 +305,7 @@
         "Secure": 1
       },
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": {
       "typed": 1
@@ -347,7 +347,7 @@
     "Craft": {
       "Item": "PawPaddedPetsuitLegs",
       "Name": "Petra's Füße",
-      "Description": "Gepolsterte Beinsleeves, die ihre Beine und Füße sicher umschließen und ihre Schritte ruhiger machen. Jede Bewegung fühlt sich geführt an, weich und getragen von Serra’s Nähe~",
+      "Description": "Gepolsterte Beinsleeves, die ihre Beine und Füße sicher umschließen und ihre Schritte ruhiger machen. Jede Bewegung fühlt sich geführt an, weich und getragen von Dealer Serra’s Nähe~",
       "Color": "#000000,#67E2E2,#000000,#67E2E2,#000000,#67E2E2,#67E2E2,#182C42,#182C42",
       "Lock": "",
       "Private": true,
@@ -358,7 +358,7 @@
         "Strong": 1
       },
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {
@@ -424,7 +424,7 @@
         "Secure": 2
       },
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": {
       "Gagtype": 4,
@@ -469,7 +469,7 @@
     "Craft": {
       "Item": "QualityHarnessGag",
       "Name": "Petra's Mund",
-      "Description": "Ein sicher sitzender Gag, der ihren Mund verschlossen hält. Er nimmt ihr die Worte und lässt sie still und ruhig bei Serra bleiben~",
+      "Description": "Ein sicher sitzender Gag, der ihren Mund verschlossen hält. Er nimmt ihr die Worte und lässt sie still und ruhig bei Dealer Serra bleiben~",
       "Color": "#67E2E2,#182C42,#000000,#182C42,#FFFFFF",
       "Lock": "",
       "Private": true,
@@ -480,7 +480,7 @@
         "Secure": 2
       },
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {
@@ -519,7 +519,7 @@
         "Flexible": 1
       },
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {
@@ -567,7 +567,7 @@
     "Craft": {
       "Item": "乳胶眼罩2",
       "Name": "Petra's Augen",
-      "Description": "Eine weiche Augenbinde, die ihr die Sicht nimmt und die Welt ausblendet.\nOhne Ablenkung bleibt nur noch das Gefühl von Nähe und das Vertrauen in Serra~",
+      "Description": "Eine weiche Augenbinde, die ihr die Sicht nimmt und die Welt ausblendet.\nOhne Ablenkung bleibt nur noch das Gefühl von Nähe und das Vertrauen in Dealer Serra~",
       "Color": "#000000,#FFFFFF,#67E2E2,#67E2E2,#67E2E2",
       "Lock": "",
       "Private": true,
@@ -578,7 +578,7 @@
         "Secure": 2
       },
       "MemberNumber": 1,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {
@@ -618,7 +618,7 @@
     "LockedBy": null,
     "Craft": {
       "Item": "VibratingDildoPlug",
-      "Name": "Serra's Special Vibrator",
+      "Name": "Dealer Serra's Special Vibrator",
       "Description": "Makes the cuties~ very warm and comfy to hug and really aroused~",
       "Color": "Default",
       "Property": "Arousing",
@@ -630,7 +630,7 @@
         "Arousing": 1
       },
       "MemberNumber": 100,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": {},
     "CraftEffects": {
@@ -672,7 +672,7 @@
     "LockedBy": null,
     "Craft": {
       "Item": "VibratingDildo",
-      "Name": "Serra's Special Vibrator",
+      "Name": "Dealer Serra's Special Vibrator",
       "Description": "Makes the cuties~ very warm and comfy to hug and really aroused~",
       "Color": "#ED4BEE,#ED4BEE",
       "Property": "Arousing",
@@ -684,7 +684,7 @@
         "Arousing": 1
       },
       "MemberNumber": 100,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": {},
     "CraftEffects": {
@@ -726,7 +726,7 @@
     "LockedBy": null,
     "Craft": {
       "Item": "VibeHeartPiercings",
-      "Name": "Serra's Piercings",
+      "Name": "Dealer Serra's Piercings",
       "Description": "Elegantly designed, these vibrant nipple clamps delicately embrace a kitty's nipples, inducing a continual state of arousal through gentle, stimulating vibrations.",
       "Color": "Default,#0D0D0D",
       "Property": "Normal",
@@ -736,7 +736,7 @@
       "TypeRecord": null,
       "Effects": {},
       "MemberNumber": 100,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {},
@@ -767,7 +767,7 @@
       "TypeRecord": null,
       "Effects": {},
       "MemberNumber": 100,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {},
@@ -801,7 +801,7 @@
     "Craft": {
       "Item": "FuturisticEarphones",
       "Name": "Petra's Ohren",
-      "Description": "Umschließende Kopfhörer, die die Außenwelt sanft dämpfen. Geräusche verblassen, bis nur noch Ruhe und Serra’s Nähe bleiben~",
+      "Description": "Umschließende Kopfhörer, die die Außenwelt sanft dämpfen. Geräusche verblassen, bis nur noch Ruhe und Dealer Serra’s Nähe bleiben~",
       "Color": "#182C42,#67E2E2,Default",
       "Lock": "",
       "Private": true,
@@ -812,7 +812,7 @@
         "Strong": 1
       },
       "MemberNumber": 100,
-      "MemberName": "Serra"
+      "MemberName": "Dealer Serra"
     },
     "CraftTypeRecord": null,
     "CraftEffects": {
