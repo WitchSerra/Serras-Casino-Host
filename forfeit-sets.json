@@ -3,14 +3,12 @@
     {
       "key": "mittens",
       "label": "Mittens",
-      "value": 9,
+      "value": 8,
       "durationMs": 1200000,
       "assetName": "LeatherMittens",
       "group": "ItemHands",
       "craftName": "Casino Mittens",
-      "craftDescription": "No more clever moves. The game is out of your hands now~",
-      "color": "auto",
-      "craftColor": "auto"
+      "craftDescription": "No more clever moves. The game is out of your hands now~"
     },
     {
       "key": "armbinder",
@@ -20,19 +18,7 @@
       "assetName": "PawPaddedPetsuitArms",
       "group": "ItemArms",
       "craftName": "Casino Armbinder",
-      "craftDescription": "All in... and now all tied up. The house always collects.",
-      "color": [
-        "#000000",
-        "auto",
-        "#000000",
-        "auto",
-        "#000000",
-        "auto",
-        "auto",
-        "#000000",
-        "#000000"
-      ],
-      "craftColor": "#000000,auto,#000000,auto,#000000,auto,auto,#182C42,#182C42"
+      "craftDescription": "All in... and now all tied up. The house always collects."
     },
     {
       "key": "corset",
@@ -42,13 +28,7 @@
       "assetName": "ClassicLatexCorset",
       "group": "ItemTorso",
       "craftName": "Casino Corset",
-      "craftDescription": "Pulled tight by the house. No room left for luck.",
-      "color": [
-        "auto",
-        "#000000",
-        "#000000"
-      ],
-      "craftColor": "auto,#182C42,#000000"
+      "craftDescription": "Pulled tight by the house. No room left for luck."
     },
     {
       "key": "chastity",
@@ -58,32 +38,17 @@
       "assetName": "ModularChastityBelt",
       "group": "ItemPelvis",
       "craftName": "Casino Chastity Belt",
-      "craftDescription": "The house keeps what you risked. No exceptions.",
-      "color": [
-        "auto",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000"
-      ],
-      "craftColor": "auto,#182C42,#182C42,#182C42,#CCCC32,#CCCC32"
+      "craftDescription": "The house keeps what you risked. No exceptions."
     },
     {
       "key": "boots",
       "label": "Boots",
-      "value": 6,
+      "value": 5,
       "durationMs": 1200000,
       "assetName": "MonoHeel",
       "group": "ItemBoots",
       "craftName": "Casino Heels",
-      "craftDescription": "Every step reminds you who set the rules.",
-      "color": [
-        "auto",
-        "auto",
-        "#000000"
-      ],
-      "craftColor": "#153F94,#153F94,#000000"
+      "craftDescription": "Every step reminds you who set the rules."
     },
     {
       "key": "legbinder",
@@ -93,19 +58,7 @@
       "assetName": "PawPaddedPetsuitLegs",
       "group": "ItemLegs",
       "craftName": "Casino Leg Binder",
-      "craftDescription": "The house doesn't like runners. Stay right where you are~",
-      "color": [
-        "#000000",
-        "auto",
-        "#000000",
-        "auto",
-        "#000000",
-        "auto",
-        "auto",
-        "#000000",
-        "#000000"
-      ],
-      "craftColor": "#000000,auto,#000000,auto,#000000,auto,auto,#182C42,#182C42"
+      "craftDescription": "The house doesn't like runners. Stay right where you are~"
     },
     {
       "key": "gag",
@@ -115,13 +68,7 @@
       "assetName": "OverfilledGag",
       "group": "ItemMouth",
       "craftName": "Casino Stuffing",
-      "craftDescription": "No complaints. The house isn't listening anyway~",
-      "color": [
-        "auto",
-        "#000000",
-        "#000000"
-      ],
-      "craftColor": "#ACAC93,#000000,#000000"
+      "craftDescription": "No complaints. The house isn't listening anyway~"
     },
     {
       "key": "muzzle",
@@ -131,50 +78,92 @@
       "assetName": "QualityHarnessGag",
       "group": "ItemMouth2",
       "craftName": "Casino Harness Gag",
-      "craftDescription": "Quiet now. The game is over for you.",
-      "color": [
-        "auto",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#FFFFFF"
-      ],
-      "craftColor": "auto,#182C42,#000000,#182C42,#FFFFFF"
+      "craftDescription": "Quiet now. The game is over for you."
     },
     {
       "key": "anklecuffs",
       "label": "Ankle Cuffs",
-      "value": 6,
+      "value": 5,
       "durationMs": 1200000,
       "assetName": "EscortAnkleCuffs",
       "group": "ItemFeet",
       "craftName": "Casino Ankle Cuffs",
-      "craftDescription": "You're not going anywhere until your debt is settled.",
-      "color": "auto",
-      "craftColor": "auto"
+      "craftDescription": "You're not going anywhere until your debt is settled."
     },
     {
       "key": "blindfold",
       "label": "Blindfold",
-      "value": 7,
+      "value": 6,
       "durationMs": 1200000,
       "assetName": "乳胶眼罩2",
       "group": "ItemHead",
       "craftName": "Casino Blindfold",
-      "craftDescription": "You played blind. Now you stay that way~",
+      "craftDescription": "You played blind. Now you stay that way~"
+    },
+    {
+      "key": "buttplug",
+      "label": "Butt Plug",
+      "value": 7,
+      "durationMs": 1200000,
+      "assetName": "VibratingDildoPlug",
+      "group": "ItemButt",
+      "craftName": "Casino Butt Plug",
+      "craftDescription": "A buzzing reminder that the house always leaves something behind~"
+    },
+    {
+      "key": "dildo",
+      "label": "Dildo",
+      "value": 7,
+      "durationMs": 1200000,
+      "assetName": "VibratingDildo",
+      "group": "ItemVulva",
+      "craftName": "Casino Dildo",
+      "craftDescription": "The house likes to keep its winners occupied."
+    },
+    {
+      "key": "nipplepiercings",
+      "label": "Nipple Piercings",
+      "value": 6,
+      "durationMs": 1200000,
+      "assetName": "VibeHeartPiercings",
+      "group": "ItemNipplesPiercings",
+      "craftName": "Casino Piercings",
+      "craftDescription": "A teasing little penalty with a heartbeat of its own."
+    },
+    {
+      "key": "pasties",
+      "label": "Pasties",
+      "value": 4,
+      "durationMs": 1200000,
+      "assetName": "HeartPasties",
+      "group": "ItemNipples",
       "color": [
-        "#000000",
-        "#FFFFFF",
-        "auto",
-        "auto",
         "auto"
       ],
-      "craftColor": "#000000,#FFFFFF,auto,auto,auto"
+      "craftColor": "#800000",
+      "craftName": "Casino Pasties",
+      "craftDescription": "Cute little hearts from the house to mark your loss."
+    },
+    {
+      "key": "earphones",
+      "label": "Earphones",
+      "value": 5,
+      "durationMs": 1200000,
+      "assetName": "FuturisticEarphones",
+      "group": "ItemEars",
+      "color": [
+        "#000000",
+        "auto",
+        "#000000"
+      ],
+      "craftColor": "#182C42,auto,Default",
+      "craftName": "Casino Earphones",
+      "craftDescription": "The noise fades away until only the house remains."
     },
     {
       "key": "allin",
       "label": "All Restraints",
-      "value": 60,
+      "value": 80,
       "durationMs": 1200000,
       "composite": [
         "mittens",
@@ -186,7 +175,12 @@
         "gag",
         "muzzle",
         "anklecuffs",
-        "blindfold"
+        "blindfold",
+        "buttplug",
+        "dildo",
+        "nipplepiercings",
+        "pasties",
+        "earphones"
       ],
       "craftName": "Total House Lockdown",
       "craftDescription": "You lost everything. The house takes it all~"
