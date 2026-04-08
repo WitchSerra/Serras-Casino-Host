@@ -574,7 +574,7 @@
       "ItemProperty": {},
       "TypeRecord": null,
       "Effects": {
-        "Thick": 2,
+        "Thin": 2,
         "Secure": 2
       },
       "MemberNumber": 100,
@@ -582,7 +582,7 @@
     },
     "CraftTypeRecord": null,
     "CraftEffects": {
-      "Thick": 2,
+      "Thin": 1,
       "Secure": 2
     },
     "CraftItemProperty": {}
